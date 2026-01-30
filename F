@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Valentine's Day, Sweetuuuuuuuuuuuuuuuuuuuuuuuuuuuu!</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(to bottom, #ff69b4, #ffb6c1);
+            color: #fff;
+            text-align: center;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 3em;
+            margin-bottom: 20px;
+        }
+        .message {
+            font-size: 1.5em;
+            margin: 20px 0;
+            line-height: 1.6;
+        }
+        .poem {
+            font-style: italic;
+            margin: 20px auto;
+            max-width: 600px;
+        }
+        .song {
+            margin: 30px auto;
+            max-width: 600px;
+        }
+        .song h2 {
+            font-size: 2em;
+            margin-bottom: 10px;
+        }
+        iframe {
+            width: 100%;
+            height: 315px;
+            border: none;
+            border-radius: 10px;
+        }
+        img {
+            max-width: 300px;
+            border-radius: 10px;
+            margin: 20px 0;
+        }
+        .hearts {
+            font-size: 2em;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Happy Valentine's Day, Afrin!</h1>
+    <p class="message">My dearest Sweetuuuuuuuuuuuuuuuuuuuuuuuuuuuu, you are the light of my life. On this Valentine's Day, I want to remind you how much I love you. You're my everything – cute, sweet, and absolutely perfect. 💖</p>
+    
+    <div class="poem">
+        <p>Roses are red,</p>
+        <p>Violets are blue,</p>
+        <p>Sugar is sweet,</p>
+        <p>And so are you, Sweetuuuuuuuuuuuuuuuuuuuuuuuuuuuu!</p>
+        <p>In your eyes, I see my world,</p>
+        <p>With every beat, my heart unfurls.</p>
+        <p>Forever yours, in love so true.</p>
+    </div>
+    
+    <div class="song">
+        <h2>Listen to Our Song: Tera Liye</h2>
+        <iframe src="https://www.youtube.com/embed/9pMlE5p1J9E?autoplay=1&mute=1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    
+    <!-- Add a photo of you two or a placeholder -->
+    <img src="https://via.placeholder.com/300x200/ff69b4/ffffff?text=Our+Love+Story" alt="Our Love Story">
+    
+    <div class="hearts">❤️ 💕 💖 💗 💓</div>
+</body>
+</html>
